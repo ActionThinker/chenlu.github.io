@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email:chenluaihr@gmail.com
 description: "科技与人文 | 黄玄，Life-long learner, Entrepreneur, Innovator | 这里是 @ActionThinker 的个人博客，与你一起发现更大的世界。"
 keyword: "陈露, CAPE陈露, CAPE, ActionThinker, CAPE ActionThinker, @ActionThinker, 陈露的博客, ActionThinker Blog, 博客, 个人网站, 互联网, 终身学习, 数字营销,青年发展,国际视野,全球青年实践网络,NPLUS Digital"
-url: "https://ActionThinker.com"              # your host, for absolute URL
+url: "http://actionthinker.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -61,14 +61,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: actionthinker.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "分享、行动、创造<br>希望自己成为一座有宜的桥"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-actionthinker.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
